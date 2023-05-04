@@ -8,7 +8,7 @@
 
 **What it looks like:**:
 
-![mainDemo](./img/appMain.PNG)
+![mainDemo](https://github.com/Maxguojiaqi/Max-Protfolio/blob/main/img/appMain.png)
 
 **Reference**:
 ```
