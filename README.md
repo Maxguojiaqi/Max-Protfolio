@@ -8,7 +8,7 @@
 
 **What it looks like:**:
 
-![mainDemo](./img/appLanding.JPG)
+![mainDemo](./img/appMain.PNG)
 
 **Reference**:
 ```
